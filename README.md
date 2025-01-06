@@ -1,0 +1,1 @@
+Proyek Python yang mencakup analisis data, visualisasi, dan pengolahan dataset dengan penerapan pustaka seperti Pandas, Matplotlib, dan NumPy. Proyek-proyek ini menunjukkan kemampuan dalam mengelola data, membuat solusi berbasis Python, dan mendukung pengambilan keputusan melalui analisis yang terstruktur.
